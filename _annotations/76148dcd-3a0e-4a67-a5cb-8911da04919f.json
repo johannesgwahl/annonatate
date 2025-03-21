@@ -1,0 +1,33 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Esel oder so",
+            "purpose": "commenting",
+            "creator": {
+                "id": "johannesgwahl",
+                "name": "johannesgwahl"
+            },
+            "created": "2025-03-21T13:29:19.538Z",
+            "modified": "2025-03-21T13:29:21.388Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"139.17330169677734\" cy=\"113.78397750854492\" r=\"46.437015532366146\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "76148dcd-3a0e-4a67-a5cb-8911da04919f.json",
+    "motivation": "commenting"
+}
